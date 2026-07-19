@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/ehdhks1983-glitch/gifmaker-updates/releases/download/v1.1.1/GIFMakerPro_Setup.exe",
-  "message": "라이선스 인증 안정화 + 시작 속도 대폭 개선",
-  "sha256": "679f50bbf45eec0113e234fecc0d3bd0ef3d8ec016a79791b7f8274265859f54"
+  "version": "1.2.0",
+  "download_url": "https://github.com/ehdhks1983-glitch/gifmaker-updates/releases/download/v1.2.0/GIFMakerPro_Setup.exe",
+  "message": "📤 업로드 대상 원클릭 (용량 자동 맞춤) / 📋 클립보드 복사·Ctrl+V / 🔄 부메랑 / ⚡ 시작 속도 개선 / 🔑 인증 안정화",
+  "sha256": "d81433c0591dc008b2f5c3d73cb95677ec37737169a20518fd0cb86a202f6927"
 }
